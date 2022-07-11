@@ -2,6 +2,8 @@ todo
 
 websocket disconnects
 improve nip-17, committments, pet names, chain
+improve nostrefresh
+improve 1617
 
 vocabs
 vocab for bookmarks
